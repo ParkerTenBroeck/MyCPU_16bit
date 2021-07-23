@@ -1,0 +1,25 @@
+v2.0 raw
+a100 100 254*0 e300 ffe2 e200 ffe0 c500
+e700 ffe4 e300 ffe3 e200 ffe1 c000 e700
+ffe5 b000 ff00 e300 ffd0 e200 ffe0 a200
+130 e300 ffd1 e200 ffe0 a200 140 e300
+ffd2 e200 ffe1 a200 150 e300 ffd3 e200
+ffe1 a200 160 a000 1a0 6*0 e000 ffe8
+e400 ffe6 a000 11c 10*0 e000 ffe9 e400
+ffe6 a000 11c 10*0 e000 ffe8 e400 ffe7
+a000 1a0 10*0 e000 ffe9 e400 ffe7 a000
+1a0 58*0 e200 ffe6 e300 ffe8 a200 1c0
+e200 ffe6 e300 ffe9 a200 1d0 e200 ffe7
+e300 ffe8 a200 1e0 e200 ffe7 e300 ffe9
+a200 1f0 8*0 e300 ffe0 e200 ffe8 c000
+e700 ffe0 a000 1ac 7*0 e300 ffe0 e200
+ffe8 c100 e700 ffe0 a000 1ac 7*0 e300
+ffe1 e200 ffe8 c000 e700 ffe1 a000 8*0
+e300 ffe1 e200 ffe8 c100 e700 ffe1 a000
+64760*0 e000 ffe5 e400 fef9 e400 fefc e200
+ffe4 e300 fffd c100 e700 fffd b400 0
+0 e000 ffe5 e400 ff09 e400 ff0c e200
+ffe4 e300 fffd c600 e700 fffd e800 a000
+fef0 193*0 f 0 e 13*0 d 8000
+fff0 8000 fffd 1 2 1 2 f
+20*0 10
